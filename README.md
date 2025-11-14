@@ -1,8 +1,8 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9vZTN4bHBjZ2xqMG1qNWJzcTg3ZHJnaHJnemlnamR6b25wOHZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif)](https://revocoder.com)
+[![MasterHead]<img align="center" (https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9vZTN4bHBjZ2xqMG1qNWJzcTg3ZHJnaHJnemlnamR6b25wOHZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif)]/>(https://revocoder.com)
 
 <h1 align="center">Hello 👋, I'm Zypher.</h1>
 <h3 align="center">Nothing is impossible under the sun if you have integrity.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1jdGZtdXBsOWk5bmdyZG91ODNxMjNtZTdnMjZxaTVzZW9vMWVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zypher-tza&label=Profile%20views&color=0e75b6&style=flat" alt="zypher-tza" /> </p>
 
