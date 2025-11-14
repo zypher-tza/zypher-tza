@@ -1,4 +1,4 @@
-[![MasterHead]<img align="center" (https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9vZTN4bHBjZ2xqMG1qNWJzcTg3ZHJnaHJnemlnamR6b25wOHZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif)]/>(https://revocoder.com)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9vZTN4bHBjZ2xqMG1qNWJzcTg3ZHJnaHJnemlnamR6b25wOHZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif)](https://revocoder.com)
 
 <h1 align="center">Hello 👋, I'm Zypher.</h1>
 <h3 align="center">Nothing is impossible under the sun if you have integrity.</h3>
